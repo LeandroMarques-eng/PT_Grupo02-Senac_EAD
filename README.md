@@ -7,11 +7,11 @@ O site incluirá funcionalidades essenciais de e-commerce, como catálogo de pro
 
 A proposta é garantir uma experiência intuitiva e adaptada, promovendo inclusão digital, autonomia e bem-estar, enquanto mantém o foco nas demandas comerciais do projeto. O desenvolvimento será limitado a recursos que garantam a acessibilidade e a usabilidade do site, com possibilidade de expansão para funcionalidades adicionais em futuras fases do projeto. Objetivo Final: Criar uma plataforma digital acessível, inclusiva e segura, visando a promoção da autonomia e bem-estar dos idosos, enquanto atende às necessidades comerciais de forma eficiente e eficaz.
 
-Autores do projeto.
+Autores do projeto:
 
-Denize Goncalves Mancini
-Leandro Dos Santos Marques
-Antonio Glaidston Silva De Vasconcelos
-Mileny Vitória Pereira Sousa
-Vinicius Dos Santos Moreira
-Eugênio Cafe Da Silva Nascimento
+# Denize Goncalves Mancini
+# Leandro Dos Santos Marques
+# Antonio Glaidston Silva De Vasconcelos
+# Mileny Vitória Pereira Sousa
+# Vinicius Dos Santos Moreira
+# Eugênio Cafe Da Silva Nascimento
